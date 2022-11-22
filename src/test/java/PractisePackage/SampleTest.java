@@ -16,6 +16,12 @@ public class SampleTest {
 			System.out.println("----Script2----");
 			
 		}
+	@Test
+		public void Script2()
+		{
+			System.out.println("----kanyakumari----");
+			
+		}
 
 	}
 
