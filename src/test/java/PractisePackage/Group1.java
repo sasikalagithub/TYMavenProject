@@ -12,6 +12,7 @@ public class Group1 {
 	{
 		System.out.println("----Group Exec Script1-----");
 		
+		
 	}
 	@Test(groups="Regression")
 	public void Script2()
